@@ -1,2 +1,2 @@
 Readme project C
-test project _c_
+project c
